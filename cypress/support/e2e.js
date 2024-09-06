@@ -20,6 +20,7 @@ import './pages/home.page.js'
 import './pages/women.page.js'
 import './pages/produto.page.js'
 import './pages/contato.page.js'
+import './api/spacex.api.js'
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
